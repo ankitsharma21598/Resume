@@ -295,8 +295,9 @@ section:nth-child(2n+1){
     /* height: 75%; */
 }
 #timeline-box{
+    
     position: relative;
-    /* border: 2px solid black; */
+    border: 2px solid black;
     min-height: 150px;
     width: 40%;
     left: 5%;
@@ -378,7 +379,7 @@ section:nth-child(2n+1){
 #info{
     position: absolute;
     /* top: -18px; */
-    left: 18rem;
+    left: 10rem;
     line-height: 0%;
 }
 #info h2{
@@ -392,8 +393,7 @@ section:nth-child(2n+1){
 }
 #timeline-box p{
     position: absolute;
-    top: 85px;
-    padding: 0px 25px;
+    top: 70px;
 }
 
 
